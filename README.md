@@ -9,3 +9,6 @@ A CRUD and search functionality of products for Shopping-products-Admin using Fi
 
 Search product by id
 ![shop3](https://user-images.githubusercontent.com/31067957/42341833-01f18c4a-80b2-11e8-8497-bb84c173b2a8.png)
+
+When delete button is clicked than product will be deleted or if update button is clicked than product id go in above form where we can update product.
+
